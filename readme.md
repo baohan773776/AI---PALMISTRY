@@ -1,4 +1,8 @@
 # Palmistry AI - YOLOv8
+Được thực hiện bởi nhóm HKT - DA0001, gồm các thành viên:
+1. Nguyễn Bảo Hân - 31251027458 
+2. Trần Thế Đăng Khoa - 31251020280 
+3. Hoàng Bảo Trân - 31251020280
 
 Du an nay dung YOLOv8 de nhan dien 4 duong chi tay chinh tu anh hoac webcam:
 
